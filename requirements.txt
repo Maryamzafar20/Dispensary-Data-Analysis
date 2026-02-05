@@ -1,0 +1,13 @@
+# Python Dependencies for Dispensary Data Analysis Project
+# Install with: pip install -r requirements.txt
+
+# Data manipulation and analysis
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Data visualization (optional for additional analysis)
+matplotlib>=3.6.0
+seaborn>=0.12.0
+
+# Additional utilities
+python-dateutil>=2.8.0
