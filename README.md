@@ -251,6 +251,52 @@ Built a 4-page interactive dashboard featuring:
 
 ---
 
+
+## 🚀 How to Use This Project
+
+### Prerequisites
+```bash
+Python 3.8+
+pandas
+numpy
+Power BI Desktop (for .pbix file)
+```
+
+### Running the Analysis
+
+1. **Clone the repository:**
+```bash
+git clone https://github.com/Maryamzafar20/Dispensary-Data-Analysis.git
+cd dispensary-data-analysis
+```
+
+2. **Install dependencies:**
+```bash
+pip install -r requirements.txt
+```
+
+3. **Run data cleaning:**
+```bash
+cd analysis
+python data_cleaning.py
+```
+
+4. **Execute exploratory analysis:**
+```bash
+python exploratory_analysis.py
+```
+
+5. **Open Power BI Dashboard:**
+```bash
+# Open Dispensary Data Analysis.pbix in Power BI Desktop
+```
+
+### SQL Queries
+Load the cleaned data into your SQL database and execute queries from `sql/analysis_queries.sql` for additional insights.
+
+---
+
+
 ## 📊 Dataset Information
 
 **Source:** Synthetic dataset created for demonstration  
