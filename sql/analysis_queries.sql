@@ -8,7 +8,6 @@ after importing the cleaned CSV data.
 
 Dataset: dispensary_data_cleaned.csv
 Table Name: dispensary_transactions (or dispensary_data_cleaned depending on import)
-Note: Adjust table name in queries based on your database setup
 ================================================================================
 */
 
